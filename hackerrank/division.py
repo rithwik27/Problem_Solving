@@ -21,6 +21,8 @@
 # 1
 # 1.33333333333
 
+# The following code is written in python 2. 
+
 from __future__ import division
 if __name__ == '__main__':
     a = int(raw_input())

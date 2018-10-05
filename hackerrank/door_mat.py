@@ -53,6 +53,7 @@
 # ------.|..|..|..|..|.------
 # ---------.|..|..|.---------
 # ------------.|.------------
+#this is a python program for welcome pattern
 n,m= map(int,raw_input().split())
 for i in range(1,n,2): 
     print((i*(".|.")).center(m,"-"))

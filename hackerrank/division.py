@@ -19,6 +19,12 @@
 
 # 1
 # 1.33333333333
+
+#Explanatition
+
+# 4//3 gives only the whole number which is the interger part
+# 4/3 gives the number including decimal part
+
 # The following code is written in python 2. 
 from __future__ import division
 if __name__ == '__main__':
